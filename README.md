@@ -6,12 +6,12 @@ In order to consume message from kafka stream and process them separately, I bui
 
 ##### Create Schema (database) , it is already created
 ```bash
-Create Schema kkdataengineer;
+Create Schema <SCHEMA> ;
 ```
 
 ##### Change database
 ```bash
-use kkdataengineer;
+use <SCHEMA>;
 ```
 
 ##### Create table as described , it is already created
