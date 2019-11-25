@@ -15,3 +15,4 @@ ADD utils.py /app/utils.py
 ADD /.log /app/.log
 
 WORKDIR /app
+
