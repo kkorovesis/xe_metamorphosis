@@ -14,7 +14,7 @@ Create Schema kkdataengineer;
 use kkdataengineer;
 ```
 
-##### Create table as described
+##### Create table as described , it is already created
 ```bash
 CREATE TABLE IF NOT EXISTS Classifieds (
     id VARCHAR(32) PRIMARY KEY NOT NULL,
